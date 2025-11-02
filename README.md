@@ -27,13 +27,21 @@
 	▪ Certified Penetration Testing Professional [CPENT]
 	▪ Certified Red Team Operator [CRTO]
 	▪ Certified Red Team Expert [CRTE]
-	▪ Certified Instrcutor for EC-Council and OffSec
+	▪ Certified Red Team Specialist [CRTS]
+	▪ Certified Hybrid Multi-Cloud Red Team Specialist [CHMRTS]
+	▪ Certified Extreme Red Teamer [CUBUS, AVUESSO Labs]	
+	▪ Certified Instructor for EC-Council and OffSec [CEI, OSIB]
 	▪ Bachelor Degree of Computer Science and Engineering [CSE] – Royal University of Phnom Penh, Cambodia </pre>
 <pre>❑ <b>Publication, Speaker and Panelist @:</b>
+	❑ Publication: HTTP Desynchronization Attack
 	❑ Publication: Attacking AD Evironment from Kali Linux
+	❑ Cambodia Digital Edge: Cyber Attack Landscape
+	❑ Cambodia Digital Edge: AI in Offensive Security
 	❑ Cambodia's Digital Edge: Hacker's Mindset: The Ultimate Zero-Day Exploit 
-	❑ 1st Cybersecurity Bootcamp in Cambodia:
-	❑ Cybersecurity Landscape Asia 2023:
+	❑ Tech Talk: Cybersecurity Career Path
+	❑ Proctor for Cyber eLite Game 2024 - Cambodia
+	❑ 1st Cybersecurity Bootcamp in Cambodia
+	❑ Cybersecurity Landscape Asia 2023
 	❑ Cambodia Cybersecurity 2023:
 		▪ https://tech-cambodia.com/articles/Cybersecurity-Cambodia-2023
 		▪ https://tech-cambodia.com/articles/Sunrise-Cybersecurity-Cambodia-2023
