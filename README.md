@@ -24,7 +24,7 @@
 <pre>❑ <b>Certifications:</b>
 	▪ Certified Ethical Hacker [C|EH – Practical]
 	▪ OffSec Certified Professional [OSCP]
-	▪ Certified Penetration Testing Professional [CPENT]
+	▪ Certified Penetration Testing Professional [C|PENT]
 	▪ Certified Red Team Operator [CRTO]
 	▪ Certified Red Team Expert [CRTE]
 	▪ Certified Red Team Specialist [CRTS]
